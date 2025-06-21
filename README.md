@@ -2,6 +2,9 @@
 
 A Python-based terminal musical instrument for playing Indian classical music notes (sargam).
 
+## Demo Video Link
+https://youtu.be/cCxXdiHAZfI
+
 ## Features
 
 - **Live Play Mode**: Play notes in real-time using keyboard keys
